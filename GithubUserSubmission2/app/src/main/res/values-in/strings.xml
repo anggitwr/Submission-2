@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="tv_username">Nama Pengguna</string>
+    <string name="tv_name">nama</string>
+    <string name="tv_repository">Repository :%s</string>
+    <string name="tv_company">Kantor :%s</string>
+    <string name="tv_location">Lokasi :%s</string>
+    <string name="change_language_setting">Ganti Bahasa</string>
+    <string name="tv_followers">Pengikut :%s</string>
+    <string name="tv_following">Mengikuti :%s</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+</resources>

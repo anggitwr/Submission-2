@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">search</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="tv_username">username</string>
+    <string name="tv_name">name</string>
+    <string name="tv_repository">Repository :%s</string>
+    <string name="tv_company">Company :%s</string>
+    <string name="tv_location">Location :%s</string>
+    <string name="tv_followers">Followers :%s</string>
+    <string name="tv_following">Following :%s</string>
+    <string name="change_language_setting">Change language</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+</resources>
